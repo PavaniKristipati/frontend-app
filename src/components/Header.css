@@ -1,9 +1,9 @@
 .App-Header{
-  background-color: teal;
+  background-color: orange;
   display: flex;
   justify-content: space-between;
   padding: 10px;
-  color:white;
+  color:black;
 }
 .App-Header li{
     display: inline-block;
