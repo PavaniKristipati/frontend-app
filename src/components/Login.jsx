@@ -17,6 +17,7 @@ function Login() {
   return (
     <div>
       <h2>Login Page</h2>
+      <br />
       <p>
         <input
           type="text"
